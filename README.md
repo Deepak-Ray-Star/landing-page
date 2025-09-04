@@ -1,4 +1,4 @@
-# modern landing page
+# Modern Animated Landing Page
 
 ## About the Project
 
